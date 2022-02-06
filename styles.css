@@ -1,0 +1,46 @@
+.fondo {
+    background-color: rgb(58, 58, 58);
+}
+
+.logo {
+    padding-top: 1vh;
+    width: 10%;
+}
+
+.listas{
+    list-style-type:none;
+    text-decoration:none;
+    color: antiquewhite;
+}
+.ordenador {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10vh;
+    margin-top: 10vh;
+}
+
+main {
+    margin-top: 5vh;
+}
+.articulos{
+    background-color: rgba(95, 95, 95, 0.63);
+    margin: 1vw;
+    padding:3vw;
+    box-shadow: -2px 3px 5px gray;
+    border-radius: 3px;
+}
+
+.letras {
+    text-decoration: none;
+    color: black;
+}
+
+.espacio{
+    margin-top:10vh;
+    margin-bottom: 10vh;
+}
+
+.colorBox {
+    background-color: rgba(0, 0, 0, 0.61);
+}
