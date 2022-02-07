@@ -1,0 +1,5 @@
+.fondoWall{
+    margin-top: none;
+    background-image:linear-gradient(violet,green);
+    height: 35vh;
+}
