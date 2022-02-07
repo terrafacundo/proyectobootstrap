@@ -1,5 +1,48 @@
 .fondoWall{
     margin-top: none;
-    background-image:linear-gradient(violet,green);
+    background-image:linear-gradient(#ccff66,rgb(206, 200, 200));
     height: 35vh;
+}
+
+.info1 {
+    background-color:#e6ffb3;
+    box-shadow: -5px 5px 20px gray;
+    display: grid;
+    grid-template-columns: 65% 35%;
+    align-items: center;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+
+.orgInt{
+    display: flex;
+    flex-direction: column;
+    row-gap: 5vh;
+    align-items: flex-start;
+    justify-content:flex-start;
+}
+
+.photo {
+    transform: scale(0.9,0.9);
+    border-radius: 10px;
+}
+
+.fondo2{
+    background-color:#e6ffb3;
+}
+
+.ordenador {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 10vh;
+    margin-top: 10vh;
+}
+
+.fondo {
+    padding-top: 5vh;
+}
+
+.espacios{
+    margin-bottom: 10vh;
 }
